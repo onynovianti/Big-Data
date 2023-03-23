@@ -12,16 +12,18 @@ or
 sc.defaultParallelism
 
 
-#Let’s create a list, parallelize it and let’s check the number of partitions. 
+#Letâ€™s create a list, parallelize it and letâ€™s check the number of partitions. 
 myList = ["big", "data", "analytics", "hadoop" , "spark"]
 myRDD = sc.parallelize(myList)
 myRDD.getNumPartitions()
 
-#To override the default parallelism, provide specific number of partitions needed while creating the RDD. In this case let’s create the RDD with 6 partitions.
+#To override the default parallelism, provide specific number of partitions needed while creating the RDD. 
+#In this case letâ€™s create the RDD with 6 partitions.
+
 myRDDWithMorePartitions = sc.parallelize(myList,6)
 myRDDWithMorePartitions.getNumPartitions()
  
-#Let’s issue an action to count the number of elements in the list.
+#Letâ€™s issue an action to count the number of elements in the list.
 myRDD.count()
 
 #Display the data in each partition

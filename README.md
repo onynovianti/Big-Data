@@ -78,7 +78,7 @@ Deep Dive Into Apache Spark
 <b>5. Understanding RDDs</b>
     <table border="0">
  <tr>
-    <td><b style="font-size:30px">Code</b></td>
+    <td><b style="font-size:30px" width="40%">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>

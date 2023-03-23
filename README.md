@@ -53,47 +53,47 @@ Deep Dive Into Apache Spark
     <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/Broadcast.png"></td>
  </tr>
 </table>
-**3. Log Analytics**
+<b>3. Log Analytics</b>
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/BroadCast.py#L1-L2 </td>
-    <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/Broadcast.png"></td>
+    <td>https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Log%20Analytics/LogAnalytics.py#L1-L27 </td>
+    <td>Not Finished Yet (Error)</td>
  </tr>
 </table>
-7. Pair RDD
+<b>4. Pair RDD</b>
     <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/BroadCast.py#L1-L2 </td>
-    <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/Broadcast.png"></td>
+    <td>https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Pair%20RDD/PairRDD.py#L1-L11 </td>
+    <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Pair%20RDD/PairRDD.png"></td>
  </tr>
 </table>
-9. Understanding RDDs
+<b>5. Understanding RDDs</b>
     <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/BroadCast.py#L1-L2 </td>
-    <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/Broadcast.png"></td>
+    <td>https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Understanding%20RDDs/UnderstandingRDDs.py#L1-L40 </td>
+    <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Understanding%20RDDs/UnderstandingRDDs.png"></td>
  </tr>
 </table>
-11. Word Count
+<b>6. Word Count</b>
     <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/BroadCast.py#L1-L2 </td>
-    <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/Broadcast.png"></td>
+    <td>https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Word%20Count/WordCount.py#L1-L8 </td>
+    <td>Not Finished Yet (Error) </td>
  </tr>
 </table>

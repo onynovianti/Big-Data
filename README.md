@@ -83,7 +83,7 @@ Deep Dive Into Apache Spark
  </tr>
  <tr>
     <td>https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Understanding%20RDDs/UnderstandingRDDs.py#L1-L40 </td>
-    <td><img width="45%" alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Understanding%20RDDs/UnderstandingRDDs.png"></td>
+    <td><img width="200" alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Understanding%20RDDs/UnderstandingRDDs.png"></td>
  </tr>
 </table>
 <b>6. Word Count</b>

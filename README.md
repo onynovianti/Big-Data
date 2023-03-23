@@ -18,7 +18,7 @@ Deep Dive Into Apache Spark
  </tr>
 </table><br>
 
-**2. System Commands ReturnCode **
+**2. System Commands ReturnCode**
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
@@ -31,7 +31,7 @@ Deep Dive Into Apache Spark
 </table>
 
 ### Python
-**1. Acccumulator **
+**1. Acccumulator**
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>

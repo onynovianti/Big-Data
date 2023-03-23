@@ -42,7 +42,7 @@ Deep Dive Into Apache Spark
     <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/Acccumulator/Accumulator.png"></td>
  </tr>
 </table>
-**2. BroadCast**
+<b>2. BroadCast</b>
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>

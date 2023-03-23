@@ -6,7 +6,7 @@ Deep Dive Into Apache Spark
 
 ### Scala
 
-*1. System Commands Output*
+**1. System Commands Output**
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
@@ -18,7 +18,7 @@ Deep Dive Into Apache Spark
  </tr>
 </table>
 
-> System Commands ReturnCode
+** 2. System Commands ReturnCode **
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
@@ -31,8 +31,8 @@ Deep Dive Into Apache Spark
 </table>
 
 ### Python
-1. Acccumulator
-    <table border="0">
+** 1. Acccumulator **
+<table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>

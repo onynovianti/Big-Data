@@ -18,7 +18,7 @@ Deep Dive Into Apache Spark
  </tr>
 </table>
 
-** 2. System Commands ReturnCode **
+**2. System Commands ReturnCode **
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
@@ -31,7 +31,7 @@ Deep Dive Into Apache Spark
 </table>
 
 ### Python
-** 1. Acccumulator **
+**1. Acccumulator **
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
@@ -42,8 +42,8 @@ Deep Dive Into Apache Spark
     <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/Acccumulator/Accumulator.png"></td>
  </tr>
 </table>
-3. BroadCast
-    <table border="0">
+**2. BroadCast**
+<table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>
@@ -53,8 +53,8 @@ Deep Dive Into Apache Spark
     <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/437cc47913ef8112e17e0c74fa35598027dbeb87/BroadCast/Broadcast.png"></td>
  </tr>
 </table>
-5. Log Analytics
-    <table border="0">
+**3. Log Analytics**
+<table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>

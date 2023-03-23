@@ -6,7 +6,7 @@ Deep Dive Into Apache Spark
 
 ### Scala
 
-> System Commands Output
+*1. System Commands Output*
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>

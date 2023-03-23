@@ -7,7 +7,7 @@ Deep Dive Into Apache Spark
 ### Scala
 
 > System Commands Output
-    <table border="0">
+<table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>
@@ -18,8 +18,8 @@ Deep Dive Into Apache Spark
  </tr>
 </table>
 
-2. System Commands ReturnCode
-    <table border="0">
+> System Commands ReturnCode
+<table border="0">
  <tr>
     <td><b style="font-size:30px">Code</b></td>
     <td><b style="font-size:30px">Output</b></td>

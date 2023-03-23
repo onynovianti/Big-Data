@@ -17,7 +17,8 @@ myList = ["big", "data", "analytics", "hadoop" , "spark"]
 myRDD = sc.parallelize(myList)
 myRDD.getNumPartitions()
 
-#To override the default parallelism, provide specific number of partitions needed while creating the RDD. 
+#To override the default parallelism, provide specific number of partitions needed while creating 
+#the RDD. 
 #In this case let’s create the RDD with 6 partitions.
 
 myRDDWithMorePartitions = sc.parallelize(myList,6)

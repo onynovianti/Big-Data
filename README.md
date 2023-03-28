@@ -97,3 +97,32 @@ Deep Dive Into Apache Spark
     <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/f5e68ec4b64ce9415bdd590592e284ce460a49d5/Word%20Count/Word%20Count.png"></td>
  </tr>
 </table>
+
+## Tugas Praktikum 2
+<b>1. Kode 1</b>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Kode</b></td>
+    <td><b style="font-size:30px">Keterangan</b></td>
+ </tr>
+ <tr>
+    <td>sc</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>accumulator</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>parallelize</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>lambda</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>value</td>
+    <td></td>
+ </tr>
+</table>

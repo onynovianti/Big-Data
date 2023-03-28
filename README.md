@@ -60,8 +60,8 @@ Deep Dive Into Apache Spark
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Log%20Analytics/LogAnalytics.py#L1-L27 </td>
-    <td>Not Finished Yet (Error)</td>
+    <td>https://github.com/onynovianti/Big-Data/blob/f5e68ec4b64ce9415bdd590592e284ce460a49d5/Log%20Analytics/LogAnalytics.py#L1-L14 </td>
+    <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/f5e68ec4b64ce9415bdd590592e284ce460a49d5/Log%20Analytics/LogAnalytics.png"></td>
  </tr>
 </table>
 <b>4. Pair RDD</b>
@@ -93,7 +93,7 @@ Deep Dive Into Apache Spark
     <td><b style="font-size:30px">Output</b></td>
  </tr>
  <tr>
-    <td>https://github.com/onynovianti/Big-Data/blob/ef27cd730aa9f2de61ec2a4975ab6e85abad1002/Word%20Count/WordCount.py#L1-L8 </td>
-    <td>Not Finished Yet (Error) </td>
+    <td>https://github.com/onynovianti/Big-Data/blob/f5e68ec4b64ce9415bdd590592e284ce460a49d5/Word%20Count/WordCount.py#L1-L8 </td>
+    <td><img alt="Dark" src="https://github.com/onynovianti/Big-Data/blob/f5e68ec4b64ce9415bdd590592e284ce460a49d5/Word%20Count/Word%20Count.png"></td>
  </tr>
 </table>
